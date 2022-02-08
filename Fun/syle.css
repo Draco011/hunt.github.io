@@ -4,8 +4,8 @@
 body {
   font-family: "Georgia", serif;
   color: black;
-  line-height: 140%;
-  margin: 30px;
+  line-height: 150%;
+  margin: 50px;
   background-image: url("Valentines day hero.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -23,8 +23,4 @@ header h1 {
 nav {
   float: left;
   width: 350px;
-}
-
-nav a {
-  width: 150px;
 }
