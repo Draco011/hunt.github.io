@@ -6,7 +6,7 @@ body {
   color: black;
   line-height: 140%;
   margin: 30px;
-  background-image: url("Valentines day hero.jpg");
+  background-image: url("Background.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-color: #FFA3B8;
@@ -20,7 +20,7 @@ header h1 {
   font-size: 300%;
   color: #7C1A00;
   padding: 40px 40px 40px 150px;
-  background-image: url("Valentines-header.jpg");
+  background-image: url("flower-color.jpg");
   background-repeat: no-repeat;
 }
 
