@@ -29,6 +29,14 @@ nav{
   width: 150px;
 }
 
+nav li {
+  margin: 10px;
+  border: 1px;
+  border-style: solid;
+  border-color: #7C1A00;
+  background-color: #ffe597;
+}
+
 nav ul {
   margin: 0px;
   padding: 0px;
