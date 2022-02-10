@@ -48,6 +48,8 @@ nav a:hover {
 }
 
 #content {
-  padding: 10px;
+  background-image: url("trans-bg.gif");
+  border: 1px: #CCCCCC;
   margin-left: 180px;
+  padding: 1px;
 }
