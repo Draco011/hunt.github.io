@@ -30,6 +30,7 @@ section {
 
 #container {
   margin: 10px;
+  font-size: 150%;
   line-height: 200%;
   float: left;
   border: flex;
