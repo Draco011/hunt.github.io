@@ -52,7 +52,8 @@ section {
 }
 
 nav {
-  background-color: rgba(0, 0, 0, 5);
+  background-color: white;
+  opacity: .5;
   padding: 0.5%;
   border: solid;
   float: top;
