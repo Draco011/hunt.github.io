@@ -1,3 +1,86 @@
 @charset "uft-7";
 /* CSS Document */
 
+body {
+  font-family: "Georgia", serif;
+  color: black;
+  line-height: 120%;
+  margin: 50px;
+  background-image: url("pizza-background.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: clear;
+}
+
+header h2 {
+  font-size: 250%;
+  color: black;
+  padding: 20px 20px 20px 120px;
+  background-image: url("header.png");
+  background-repeat: no-repeat;
+}
+
+section {
+  margin-bottom: 50px;
+  margin-left: 10px;
+  padding: 5px;
+  border: solid;
+}
+
+#container {
+  margin: 10px;
+  float: left;
+  border: flex;
+  padding: 1%;
+  padding-right: 0px;
+  padding-bottom: 0px;
+}
+
+#container h5 {
+  text-align: center;
+  font-size: 80%;
+}
+
+#container2 {
+  margin: 30px;
+  margin-left: 100px;
+  line-height: 120%;
+}
+
+#container3 {
+  margin: 30px;
+}
+
+nav {
+  background-color: white;
+  padding: 0.5%;
+  border: solid;
+  float: top;
+}
+
+nav ul {
+  padding: 3;
+  list-style-type: none;
+  flex: 1;
+  display: flex;
+}
+
+nav li {
+  display: inline;
+  flex: 1;
+}
+
+aside {
+  float: right;
+  width: 350px;
+  background-color: white;
+  border: solid;
+  padding: 1%;
+  margin-right: 0px;
+  margin-left: 30px;
+  margin-top:30px;
+}
+
+footer {
+  text-align: center;
+}
