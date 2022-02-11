@@ -53,6 +53,7 @@ section {
 
 nav {
   background-color: white;
+  background-color: transparent;
   padding: 0.5%;
   border: solid;
   float: top;
