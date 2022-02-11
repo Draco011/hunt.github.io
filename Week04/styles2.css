@@ -30,13 +30,17 @@ section {
 
 #container {
   margin: 10px;
-  font-size: 150%;
   line-height: 200%;
   float: left;
   border: flex;
   padding: 1%;
   padding-right: 0px;
   padding-bottom: 0px;
+}
+
+#mini {
+    font-size: 150%;
+    line-height: 250%;;
 }
 
 #container h5 {
