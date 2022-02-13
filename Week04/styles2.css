@@ -41,7 +41,7 @@ section {
 
 #mini {
     font-size: 150%;
-    line-height: 225%;
+    line-height: 300%;
 }
 
 #container h5 {
@@ -59,9 +59,10 @@ section {
   margin-left: -30px;
 }
 
-Aside {
+#mini2 {
   float: right;
   background-image: url("meat-lasagna.jpg");
+  
 }
 
 #container3 {
