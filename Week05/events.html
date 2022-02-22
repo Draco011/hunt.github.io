@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <script>
+
+            function showEvent(from, text) {
+                alert ( from + text );}
+                showEvent('Leading','a Page');
+        </script>
+
+        <title>5.3 part 2 function</title>
+    </head>
+
+    <body onload="showEvent('Hello Page!','The page has loaded')">
+        
+        <p>Click to trigger a function:</p>
+
+        <button onclick="myFunction()">Click me!</button>
+
+        <p id="text"></p>
+
+        <script>
+            function myFunction() {
+                document.getElementById("demo").innerHTML = "Hello World!; Congratulations you clicked the button!";
+            }
+        </script>
+
+    </body>
+</html>
