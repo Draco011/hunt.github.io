@@ -1,0 +1,51 @@
+@charset "uft-8";
+
+body {
+  background-image: url("watchList.jpg");
+  background-image: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+section {
+  border: solid;
+  padding: 1%;
+  margin: 30px;
+  background-color: rgba(255, 0, 50, 0.25);
+  box-shadow: 10px 10px 7.5px gray;
+  text-shadow: 10px 10px 2px gray;
+}
+
+article {
+  margin-left: 15px;
+}
+
+article ol {
+  line-height: 150%;
+}
+
+header {
+  text-align: center;
+  margin: 30px;
+  text-shadow: 5px 5px 3px gray;
+}
+
+nav {
+  float: right;
+  width: 400px;
+  background-color: rgba(255, 255, 150, 0.5);
+  margin: 5px;
+  padding: 3px;
+  border: solid;
+  box-shadow: 10px 10px 7.5px gray;
+}
+nav ol {
+  line-height: 150%;
+}
+
+aside {
+  border: solid;
+  margin: 5px;
+  padding: 1%;
+  box-shadow: 10px 10px 7.5px gray;
+}
