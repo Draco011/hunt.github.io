@@ -49,3 +49,21 @@ aside {
   padding: 1%;
   box-shadow: 10px 10px 7.5px gray;
 }
+
+#watch1:hover {
+  color: red;
+  background-color: black;
+}
+
+div#watch1 span#A {
+  display: inline;
+}
+div#watch1:hover span#A {
+  display: none;
+}
+div#watch1 span#a {
+  display: none;
+}
+div#watch1:hover span#a {
+  display: inline;
+}
